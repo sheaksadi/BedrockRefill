@@ -21,7 +21,7 @@ public class ChunkLoad implements Listener {
                 int y = 0;
                 Location loc = new Location(w,x,y,z);
 
-                if (!(c.getWorld().getBlockAt(loc).getType() == Material.BEDROCK) ){
+                if (!(c.getWorld().getBlockAt(loc).getType() == Material.BEDROCK)){
 
                         loc.getBlock().setType(Material.BEDROCK);
                 }
