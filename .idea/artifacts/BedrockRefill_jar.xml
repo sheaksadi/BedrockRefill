@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BedrockRefill:jar">
+    <output-path>/media/sheaksadi/New Volume/server/plugins</output-path>
+    <root id="archive" name="BedrockRefill.jar">
+      <element id="module-output" name="BedrockRefill" />
+    </root>
+  </artifact>
+</component>
